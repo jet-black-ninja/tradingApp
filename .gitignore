@@ -32,6 +32,6 @@
 *.app
 
 config.json
-history
-vscode
+.history
+.vscode
 include 
