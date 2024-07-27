@@ -1,1 +1,0 @@
-#ifndef CURL_FUNCTION
