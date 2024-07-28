@@ -3,7 +3,6 @@
 #include <fstream>
 #include "functions.h"
 #include "curl_function.h"
-#include <conio.h>
 using namespace std;
 
 int main(){
@@ -48,6 +47,5 @@ int main(){
         this_thread::sleep_for(chrono::milliseconds(3000));
         
     }
-    getch();
     return 0;
 }
